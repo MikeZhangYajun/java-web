@@ -1,6 +1,5 @@
 package logic;
 
-import dal.AuthorDAL;
 import dal.AuthorDALImp;
 import java.util.List;
 import java.util.function.ObjIntConsumer;
